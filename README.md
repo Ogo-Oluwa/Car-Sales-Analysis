@@ -51,7 +51,7 @@ SELECT Gender, COUNT(Gender) AS 'Total_Gender', SUM(Price) AS 'Total_Price' FROM
 GROUP BY Gender
 ORDER BY Total_Price DESC
 ;
-
 ```
 
-
+## Visualization
+### Pivot Tables

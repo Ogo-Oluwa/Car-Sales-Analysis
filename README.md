@@ -56,3 +56,8 @@ ORDER BY Total_Price DESC
 ## Visualization
 ### Pivot Tables
 <img width="1081" height="528" alt="new car dataset_ pivot tables 2" src="https://github.com/user-attachments/assets/26817a8c-f7fc-4059-a77d-832df2153f84" />
+
+## Charts
+![Car Chart II](https://github.com/user-attachments/assets/cf536f7d-d4ab-40a3-8f76-83985306cc9d)
+
+

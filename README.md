@@ -13,9 +13,9 @@ Project Overview | Data Source | Tools Used | Table Outlay | Query Languages (SQ
 www.kaggle.com/dataset
 
 ## Tools Used:
-+Pivot Table / Charts
-+PowerBI
-+SQL
++ Pivot Table / Charts
++ PowerBI
++ SQL
 
 
 ## Table Outlay:

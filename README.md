@@ -6,4 +6,6 @@ This is a US dataset of over 23,000 records on the sales of cars.
 Project Overview | Data Source | Tools Used | Table Outlay | Query Languages (SQL) | Visualization
 
 ---
+## Project Overview:
+>> This project analyzes a car sales dataset from a U.S.-based company to uncover valuable insights into sales performance and market behavior. The work involves cleaning and preparing the data, performing exploratory data analysis (EDA), and creating visualizations to highlight key factors such as pricing trends, brand competitiveness, sales volumes over time, and customer purchasing patterns.
 

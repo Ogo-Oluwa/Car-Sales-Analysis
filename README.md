@@ -61,3 +61,6 @@ ORDER BY Total_Price DESC
 ![Car Chart II](https://github.com/user-attachments/assets/cf536f7d-d4ab-40a3-8f76-83985306cc9d)
 
 ### PowerBI Dashboard
+<img width="882" height="503" alt="CAR DATA SET PowerBI" src="https://github.com/user-attachments/assets/27cf96e4-af62-4658-8dde-a7bb3532e195" />
+
+

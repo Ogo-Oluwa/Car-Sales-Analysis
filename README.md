@@ -45,5 +45,13 @@ GROUP BY Dealer_Region
 ORDER BY Total_Sales DESC
 ;
 ```
+```SQL
+--- Retrieve Sale by Gender distribution, from highest to least
+SELECT Gender, COUNT(Gender) AS 'Total_Gender', SUM(Price) AS 'Total_Price' FROM new_car_dataset
+GROUP BY Gender
+ORDER BY Total_Price DESC
+;
+
+```
 
 

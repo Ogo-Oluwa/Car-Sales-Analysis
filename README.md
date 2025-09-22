@@ -27,5 +27,23 @@ First Three Records
 | C_CND_000002 | 01/02/2022 |	Gia |	Male |	1480000 |	C & M Motors Inc |	Dodge |	Durango |	DoubleÃ‚Â Overhead Camshaft |	Auto |	Black | 19000 | 60504-7114 | SUV | 6848189 | Aurora |
 | C_CND_000003 | 01/02/2022 |	Gianna |	Male | 1035000 |	Capitol KIA |	Cadillac |	Eldorado |	Overhead Camshaft |	Manual |	Red | 31500 | 38701-8047 | Passenger | 7298798 | Greenville |
 
+## Query Language: (SQL)
+Some of the query language to retrieve records are displayed here
+```SQL
+--- Retrieve the types of Body_Style, arranging from largest to smallest sold amount.
+
+SELECT Body_Style, COUNT( Body_Style) AS 'Total' FROM new_car_dataset
+GROUP BY Body_Style
+ORDER BY Total Desc
+;
+
+```
+```SQL
+--- Leading Dealer Region by sales
+SELECT Dealer_Region, SUM(Price) AS 'Total_Sales' FROM new_car_dataset
+GROUP BY Dealer_Region
+ORDER BY Total_Sales DESC
+;
+```
 
 

@@ -21,7 +21,10 @@ www.kaggle.com/dataset
 ## Table Outlay:
 First Three Records
 
-| Car_id | Date | Customer | Gender | Annual Income | Dealer_Name | Company | Model | Engine | Transmission | Color | Price| Dealer_No| Body Style | Phone| Dealer_Region|
+| Car_id | Date | Customer | Gender | Price | UnitsSold | TotalRevenue | CustomerAge | CustomerGender | Location | PaymentMethod |
+|-----|-----|-----|------|-----|-----|-----|------|-----|-----|------|
+
+| Car_id | Date | Customer | Gender | Annual_Income | Dealer_Name | Company | Model | Engine | Transmission | Color | Price| Dealer_No| Body_Style | Phone| Dealer_Region|
 
 |-----|-----|-----|------|-----|-----|-----|------|-----|-----|------|----|---|----|-----|----|
 

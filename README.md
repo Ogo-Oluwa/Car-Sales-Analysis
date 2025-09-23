@@ -63,4 +63,7 @@ ORDER BY Total_Price DESC
 ### PowerBI Dashboard
 <img width="882" height="503" alt="CAR DATA SET PowerBI" src="https://github.com/user-attachments/assets/27cf96e4-af62-4658-8dde-a7bb3532e195" />
 
+#### Here is the link to my LinkedIn profile:
+https://www.linkedin.com/in/ogo-oluwa-adeyemo/
+
 
